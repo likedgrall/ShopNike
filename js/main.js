@@ -57,7 +57,7 @@ function menuClose() {
 const aboutUsBigImg = document.querySelector(".about-us__photo");
 const aboutUsSmallImg = document.querySelector(".about-us_imgcontainer");
 const aboutUsBlockImg = `<div class="about-us_blockimg">
-                            <img src="../img/about-us.png" alt="">
+                            <img src="./img/about-us.png" alt="">
                         </div>
                         `;
 
